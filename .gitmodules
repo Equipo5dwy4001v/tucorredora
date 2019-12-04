@@ -1,0 +1,3 @@
+[submodule "tucorredor"]
+	path = tucorredor
+	url = https://gitlab.com/adri.tapia/tucorredor.git
